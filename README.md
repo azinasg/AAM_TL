@@ -7,7 +7,10 @@ Azin Asgarian, Ahmed Bilal Ashraf, David Fleet, Babak Taati
 IJCB 2017, preprint [arXiv:1708.08508](https://arxiv.org/abs/1708.08508)   
 
 ## Table of Contents 
-- Introduction
+- [Introduction](#Introduction) 
 - Installation
 - Quick Start
 
+
+
+## Introduction
