@@ -9,7 +9,7 @@ IJCB 2017, preprint [arXiv:1708.08508](https://arxiv.org/abs/1708.08508)
 ## Table of Contents 
 - [Introduction](#Introduction) 
 - [Installation](#Installation)
-- [Quick Start](#Quick Start)
+- [Quick Start](#Quick_Start)
 
 
 
