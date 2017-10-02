@@ -22,12 +22,12 @@ This implementation is built on [Menpo Project](https://github.com/menpo).
 ## Installation
 Please make sure [Menpo](https://github.com/menpo/menpo) and [Menpofit](https://github.com/menpo/menpofit) are installed. For installation if you already have [Conda](https://conda.io/miniconda.html) installed on your computer, you only need to run the following codes:   
 
-'''
+```
 conda create -n myenv python=2.7
 source activate myenv
 conda install -c menpo menpo
 conda install -c menpo menpofit
-'''   
+``` 
    
 For installing Menpo and Menpofit without Conda, please see [Menpo installation guide](http://www.menpo.org/installation/).
 
