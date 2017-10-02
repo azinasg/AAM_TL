@@ -45,4 +45,4 @@ Once you have all the prerequisites installed, go to the root and ....
 
 ## Contact
 
-In case you found anything problematic or if you have any comments and suggestions, please let me know. I'm happy to hear the issues and I'd appreciate your comments. My email address is azinasg@cs.toronto.edu
+In case you found anything problematic or if you have any comments and suggestions, please let me know. I'm happy to hear the issues and I'd appreciate your comments. My email address is azinasg@cs.toronto.edu.
