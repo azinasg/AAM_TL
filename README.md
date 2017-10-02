@@ -4,6 +4,6 @@ This repository contains the implementation of the transfer learning method posp
 
 **Subspace Selection to Suppress Confounding Source Domain Information in AAM Transfer Learning**    
 Azin Asgarian, Ahmed Bilal Ashraf, David Fleet, Babak Taati   
-IJCB 2017, preprint [arXiv:1708.08508](https://pages.github.com/)   
+IJCB 2017, preprint [arXiv:1708.08508](https://arxiv.org/abs/1708.08508)   
 
 Code for "Subspace Selection to Suppress Confounding Source Domain Information in AAM Transfer Learning"
