@@ -29,7 +29,6 @@ conda install -c menpo menpo
 conda install -c menpo menpofit
 '''   
    
-
 For installing Menpo and Menpofit without Conda, please see [Menpo installation guide](http://www.menpo.org/installation/).
 
 ## Quick Start
