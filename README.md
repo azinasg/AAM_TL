@@ -9,7 +9,6 @@
 - [Contact](#Contact)
 
 
-
 ## Introduction
 
 This repository contains the implementation of the transfer learning method posposed in 
@@ -29,7 +28,7 @@ This implementation is built on [Menpo Project](https://github.com/menpo).
 ## Installation
 
 
-Please make sure [Menpo](https://github.com/menpo/menpo) and [Menpofit](https://github.com/menpo/menpofit) are installed. For installation if you already have [Conda](https://conda.io/miniconda.html) installed on your computer, you only need to run the following codes:   
+Please make sure all prerequisites including [menpo](https://github.com/menpo/menpo) and [menpofit](https://github.com/menpo/menpofit) are installed. For instaling menpo and menpofit if you already have [Conda](https://conda.io/miniconda.html) installed on your computer, you only need to run the following codes:   
 
 ```
 conda create -n myenv python=2.7
