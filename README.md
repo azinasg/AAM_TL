@@ -20,12 +20,12 @@ IJCB 2017, preprint [arXiv:1708.08508](https://arxiv.org/abs/1708.08508)
 This implementation is built on [Menpo Project](https://github.com/menpo).
 
 ## Installation
-Please make sure [Menpo](#https://github.com/menpo/menpo) and [Menpofit](#https://github.com/menpo/menpofit) are installed. For installation if you already have [Conda](#https://conda.io/miniconda.html) installed on your computer, you only need to run the following codes:
+Please make sure [Menpo](https://github.com/menpo/menpo) and [Menpofit](https://github.com/menpo/menpofit) are installed. For installation if you already have [Conda](https://conda.io/miniconda.html) installed on your computer, you only need to run the following codes:
 
 
 
 
-For installing Menpo and Menpofit with out Conda, please see [menpo installation guide](#http://www.menpo.org/installation/).
+For installing Menpo and Menpofit with out Conda, please see [menpo installation guide](http://www.menpo.org/installation/).
 
 ## Quick Start
 
