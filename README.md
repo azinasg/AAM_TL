@@ -17,6 +17,8 @@ This repository contains the implementation of the transfer learning method posp
 Azin Asgarian, Ahmed Bilal Ashraf, David Fleet, Babak Taati   
 IJCB 2017, preprint [arXiv:1708.08508](https://arxiv.org/abs/1708.08508)   
 
+This implementation is built on [Menpo](https://github.com/menpo).
+
 ## Installation
 
 
