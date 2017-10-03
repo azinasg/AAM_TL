@@ -5,7 +5,7 @@
 - [Introduction](#introduction) 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Quick Start](#quick_start)
+- [Quick Start](#quick start)
 - [Contact](#contact)
 
 
