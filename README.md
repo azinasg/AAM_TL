@@ -5,7 +5,7 @@
 - [Introduction](#introduction) 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Quick Start](#quick_start)
+- [Evaluation](#evaluation)
 - [Contact](#contact)
 
 
@@ -40,8 +40,8 @@ conda install -c menpo menpofit
    
 For installing Menpo and Menpofit without Conda, please see [Menpo installation guide](http://www.menpo.org/installation/).
 
-## Quick Start
-Once you have all the prerequisites installed, you can run each method separately.
+## Evaluation
+Once you have all the prerequisites installed, you can run each method separately and evaluate their performance.
 
 
 ## Contact
