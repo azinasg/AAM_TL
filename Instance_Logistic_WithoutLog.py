@@ -133,9 +133,9 @@ def Compute_App_Logistic_Weight(S_Data,T_Data,S_Comp,T_Comp,pwa_sut_t,pwa_sut_s,
     Data = np.hstack((Proj_S,Proj_T))
     Lables = np.hstack((np.ones(S_Data.shape[0]),np.zeros(T_Data.shape[0])))
 
-    LRC = LogisticRegressionCV(Cs=[0.1,1,10,100,1000,10000], fit_intercept=True, class_weight='balanced', cv=5, dual=False, penalty='l2',
-                               scoring='roc_auc',solver='lbfgs', tol=0.0001, max_iter=1000, n_jobs=1, verbose=1,
-                               refit=True, intercept_scaling=1.0, multi_class='ovr', random_state=None)
+    LRC = LogisticRegressionCV(Cs=[0.1,1,10,100,1000,10000], fit_intercept=True, class_weight='balanced', cv=5, 
+                               dual=False, penalty='l2', scoring='roc_auc',solver='lbfgs', tol=0.0001, max_iter=1000,
+                               n_jobs=1, verbose=1, refit=True, intercept_scaling=1.0, multi_class='ovr', random_state=None)
     LRC.fit(Data,Lables)
     test_data = Data[:S_Data.shape[0],:]
     tmp = LRC.predict_log_proba(test_data)
