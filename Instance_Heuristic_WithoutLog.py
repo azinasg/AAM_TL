@@ -374,8 +374,8 @@ for x in range(10,-1,-1):
             n_iters.append(fr.n_iters)
             final_errors.append(fr.final_error())
 
-            print "Ins_Heu : alpha=" + str(alpha) + " beta=" + str(beta)+" k=" + str(k) + " j=" + str(j) + " initial err: " + \
-                  str(fr.initial_error()) + " final err: " + str(fr.final_error())
+            print "Ins_Heu : alpha=" + str(alpha) + " beta=" + str(beta)+" k=" + str(k) + " j=" + str(j) + \
+                  " initial err: " + str(fr.initial_error()) + " final err: " + str(fr.final_error())
 
     with open(r'/u/azinasg/res16/Instance_Heuristic_a='+str(alpha)+'.pkl', 'wb') as f:
         pickle.dump(errors, f)
