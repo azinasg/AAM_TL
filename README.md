@@ -40,7 +40,7 @@ conda install -c menpo menpofit
 For installing Menpo and Menpofit without Conda, please see [Menpo installation guide](http://www.menpo.org/installation/).
 
 ## Quick Start
-Once you have all the prerequisites installed, go to the root and ....
+Once you have all the prerequisites installed, you can run each method separately.
 
 
 ## Contact
