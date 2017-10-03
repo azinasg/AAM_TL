@@ -22,6 +22,7 @@ This implementation is built on [Menpo Project](https://github.com/menpo).
 ## Prerequisites
 - Python 2.7
 - numpy
+- scipy
 - menpo
 - menpofit
 
