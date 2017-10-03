@@ -166,7 +166,7 @@ def Compute_App_Gauss_Weight(S_Data,S_mean,T_mean,S_Comp,T_Comp,S_landas,T_landa
 ### Loading Data ###
 #=======================================================================================================================
 # Loading the face_ibug_66_trimesh template
-with open('/u/azinasg/Code/face_ibug_66_trimesh_temp.pkl', 'rb') as input:
+with open('./face_ibug_66_trimesh_temp.pkl', 'rb') as input:
     land_tmp = pickle.load(input)
 
 # Loading (LFPW-AFW-Helen-Ibug) Images (Source Images)
@@ -389,7 +389,7 @@ for x in range(0,11,1):
     SUT_aam.appearance_models.append(App_tmp)
 
     #===================================================================================================================
-    #### Appearance Model Finished ###
+    ### Appearance Model Finished ###
     #===================================================================================================================
     ### Bulding the Fitter ###
     #===================================================================================================================
